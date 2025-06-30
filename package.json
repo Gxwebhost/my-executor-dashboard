@@ -1,5 +1,11 @@
 {
-  "name": "execution-api",
-  "version": "1.0.0",
-  "type": "module"
+    "name": "roblox-execution-tracker",
+    "version": "1.0.0",
+    "dependencies": {},
+    "scripts": {
+        "start": "node api/executions.js"
+    },
+    "engines": {
+        "node": ">=14"
+    }
 }
